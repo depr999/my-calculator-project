@@ -1,0 +1,13 @@
+/home/depress/work/my-calculator-project/build/CMakeFiles/calculator.dir
+/home/depress/work/my-calculator-project/build/CMakeFiles/test_calculator.dir
+/home/depress/work/my-calculator-project/build/CMakeFiles/test.dir
+/home/depress/work/my-calculator-project/build/CMakeFiles/edit_cache.dir
+/home/depress/work/my-calculator-project/build/CMakeFiles/rebuild_cache.dir
+/home/depress/work/my-calculator-project/build/external/Catch2/CMakeFiles/test.dir
+/home/depress/work/my-calculator-project/build/external/Catch2/CMakeFiles/edit_cache.dir
+/home/depress/work/my-calculator-project/build/external/Catch2/CMakeFiles/rebuild_cache.dir
+/home/depress/work/my-calculator-project/build/external/Catch2/src/CMakeFiles/Catch2.dir
+/home/depress/work/my-calculator-project/build/external/Catch2/src/CMakeFiles/Catch2WithMain.dir
+/home/depress/work/my-calculator-project/build/external/Catch2/src/CMakeFiles/test.dir
+/home/depress/work/my-calculator-project/build/external/Catch2/src/CMakeFiles/edit_cache.dir
+/home/depress/work/my-calculator-project/build/external/Catch2/src/CMakeFiles/rebuild_cache.dir
