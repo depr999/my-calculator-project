@@ -1,0 +1,5 @@
+if(EXISTS "/home/depress/work/my-calculator-project/build/test_calculator_tests-b12d07c.cmake")
+  include("/home/depress/work/my-calculator-project/build/test_calculator_tests-b12d07c.cmake")
+else()
+  add_test(test_calculator_NOT_BUILT-b12d07c test_calculator_NOT_BUILT-b12d07c)
+endif()
