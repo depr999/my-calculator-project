@@ -9,10 +9,12 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: Setup dependencies
-      run: sudo apt-get update && sudo apt-get install -y cmake ninja-build
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y cmake ninja-build qt5-default qtbase5-dev qtbase5-dev-tools
 
-    - name: Clean build directory (if exists)
+    - name: Clean build directory
       run: rm -rf build
 
     - name: Configure CMake
