@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/usr/include/catch2 -I/home/depress/work/my-calculator-project/src -I/home/depress/work/my-calculator-project/external/Catch2/src/catch2/.. -I/home/depress/work/my-calculator-project/build/external/Catch2/generated-includes
+CXX_INCLUDES = -I/home/depress/work/my-calculator-project/src -I/home/depress/work/my-calculator-project/build/_deps/catch2-src/src/catch2/.. -I/home/depress/work/my-calculator-project/build/_deps/catch2-build/generated-includes
 
 CXX_FLAGS = -std=gnu++17
 

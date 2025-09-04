@@ -1,0 +1,18 @@
+# Название проекта
+PROJECT_NAME = "My Calculator Project"
+
+# Папка, куда положить html
+OUTPUT_DIRECTORY = docs
+
+# Что документировать
+RECURSIVE = YES
+INPUT = src include
+
+# Генерировать HTML
+GENERATE_HTML = YES
+
+# Можно оставить OFF, если не нужен LaTeX
+GENERATE_LATEX = NO
+
+# Поддержка Markdown-файлов (например, из Wiki)
+MARKDOWN_SUPPORT = YES

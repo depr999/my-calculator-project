@@ -4,4 +4,5 @@
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
-subdirs("external/Catch2")
+include("/home/depress/work/my-calculator-project/build/test_calculator_include-b12d07c.cmake")
+subdirs("_deps/catch2-build")
